@@ -13,7 +13,7 @@ intensely familiar with agile development practices and CICD.
 
 I am always looking for new opportunities to learn and expand my skillset. Currently, I have been working on a side project of turning an old desktop
 into a functioning webserver so that I can host my own services. It has been a fun challenge, and has helped me learn more about containerization,
-deployment, networking, and microservices, and has been a great opportunity to improve my development skills.
+deployment, networking, and microservices, and has been a great opportunity to improve my development skills. Another one of my projects, GoNEAT, is a Golang implementation of a machine learning algorithm known as Neuroevolution of Augmenting Topologies (NEAT). This library can be used by other Go projects to easily incorporate NEAT. I used a Go clone of Flappy Bird and a top-down driving simulator for testing. I intend to improve the efficiency of the algorithm so that it can take on more complicated tasks and learn more efficiently.
 
 <!---
 jcatterton/jcatterton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
